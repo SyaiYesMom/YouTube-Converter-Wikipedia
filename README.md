@@ -22,7 +22,7 @@ Bot ini menggunakan `python-telegram-bot` dan beberapa library lainnya untuk ber
 
 2. **Menjalankan Bot**
    - Jalankan bot menggunakan perintah:
-     python bot.py
+     python main.py
 
 ## Penggunaan
 - Kirim perintah `/start` untuk memulai bot dan pilih salah satu fitur yang tersedia:
