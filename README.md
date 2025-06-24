@@ -17,9 +17,9 @@ Program berbasis terminal untuk:
 **🔧 Instalasi**
   1. Clone repository:
 
-  ``` git clone https://github.com/SyaiYesMom/YouTube-Converter-Wikipedia.git ```
+  ```    git clone https://github.com/SyaiYesMom/YouTube-Converter-Wikipedia.git ```
   
-  ``` cd YouTube-Converter-Wikipedia ```
+  ```    cd YouTube-Converter-Wikipedia ```
 
   2. Install dependencies:
       Pastikan kamu sudah memiliki Python 3 dan pip.
