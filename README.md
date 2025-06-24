@@ -58,3 +58,6 @@ Jalankan program utama:
  3. YouTube ke MP4
  4. Selesai
 ```
+
+**✅ Dependencies**
+Beberapa package yang kemungkinan digunakan (isi ```requirements.txt``` kamu bisa seperti ini):
