@@ -46,4 +46,15 @@ Jalankan program utama:
 └── README.md          # Dokumentasi
 ```
 
+**🛠️ Contoh Output**
 
+```markdown
+===============================================
+|                 Kelompok 7                  |
+|        Konverter YouTube & WikiPedia        |
+===============================================
+ 1. Pencarian Wikipedia
+ 2. YouTube ke MP3
+ 3. YouTube ke MP4
+ 4. Selesai
+```
