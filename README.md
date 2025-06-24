@@ -30,7 +30,7 @@ Program berbasis terminal untuk:
 **▶️ Cara Menjalankan**
 Jalankan program utama:
 
-    ``` python main.py
+     python main.py
 
 **🗂️ Struktur File**
 
