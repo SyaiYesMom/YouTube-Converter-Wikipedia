@@ -7,7 +7,7 @@ Program berbasis terminal untuk:
    - 🎵 Mengunduh video YouTube sebagai MP3
    - 📺 Mengunduh video YouTube sebagai MP4
 
-##**🖥️ Fitur**
+## **🖥️ Fitur**
   1. Pencarian Wikipedia
       Masukkan judul artikel untuk menampilkan ringkasan, URL, dan daftar bagian artikel Wikipedia.
   2. YouTube ke MP3
@@ -15,7 +15,7 @@ Program berbasis terminal untuk:
   3. YouTube ke MP4
       Unduh konten video dari link video YouTube.
 
-##**🔧 Instalasi**
+## **🔧 Instalasi**
   1. Clone repository:
      
 ```graphql
@@ -31,12 +31,12 @@ Program berbasis terminal untuk:
   pip install -r requirements.txt
 ```
 
-##**▶️ Cara Menjalankan**
+## **▶️ Cara Menjalankan**
 Jalankan program utama:
 
       python main.py
 
-##**🗂️ Struktur File**
+## **🗂️ Struktur File**
 
 ```graphql
 ├── main.py            # Menu utama program
@@ -47,7 +47,7 @@ Jalankan program utama:
 └── README.md          # Dokumentasi
 ```
 
-##**🛠️ Contoh Output**
+## **🛠️ Contoh Output**
 
 ```markdown
 ===============================================
@@ -60,7 +60,7 @@ Jalankan program utama:
  4. Selesai
 ```
 
-##**✅ Dependencies**
+## **✅ Dependencies**
 Beberapa package yang kemungkinan digunakan (isi ```requirements.txt``` kamu bisa seperti ini):
 
 ```graphql
@@ -70,5 +70,5 @@ pytube
 
 Kamu bisa menambahkan dependensi lain sesuai isi aktual file ```wiki.py```, ```ytbmp3.py```, dll.
 
-**📄 Lisensi**
+## **📄 Lisensi**
 MIT License. Bebas digunakan dan dimodifikasi.
