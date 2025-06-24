@@ -26,7 +26,7 @@ Program berbasis terminal untuk:
       Pastikan kamu sudah memiliki Python 3 dan pip.
       Lalu jalankan:
 
-     ``` pip install -r requirements.txt ```
+     ```graphql pip install -r requirements.txt ```
 
 **▶️ Cara Menjalankan**
 Jalankan program utama:
