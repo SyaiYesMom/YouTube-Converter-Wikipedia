@@ -34,6 +34,13 @@ Jalankan program utama:
 
 **🗂️ Struktur File**
 
-
+```graphql
+├── main.py            # Menu utama program
+├── wiki.py            # Modul pencarian Wikipedia
+├── ytbmp3.py          # Modul pengunduh YouTube ke MP3
+├── ytbmp4.py          # Modul pengunduh YouTube ke MP4
+├── requirements.txt   # Daftar dependensi
+└── README.md          # Dokumentasi
+```
 
 
