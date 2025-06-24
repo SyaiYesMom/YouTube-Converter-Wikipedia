@@ -61,3 +61,13 @@ Jalankan program utama:
 
 **✅ Dependencies**
 Beberapa package yang kemungkinan digunakan (isi ```requirements.txt``` kamu bisa seperti ini):
+
+```graphql
+wikipedia
+pytube
+```
+
+Kamu bisa menambahkan dependensi lain sesuai isi aktual file ```wiki.py```, ```ytbmp3.py```, dll.
+
+**📄 Lisensi**
+MIT License. Bebas digunakan dan dimodifikasi.
