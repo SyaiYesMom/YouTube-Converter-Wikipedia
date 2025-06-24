@@ -1,6 +1,7 @@
 **🧠 YouTube Converter & Wikipedia CLI**
 
-Oleh Kelompok 7
+Oleh Syailendra - Semester 3
+Untuk memenuhi tugas Matkul PBO
 
 Program berbasis terminal untuk:
    - 🔍 Mencari ringkasan artikel Wikipedia (bahasa Indonesia)
